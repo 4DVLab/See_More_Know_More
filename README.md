@@ -1,11 +1,8 @@
 # See More and Know More: Zero-shot Point Cloud Segmentation via Multi-modal Visual Data
 
-</figure>
-
-<table>
-  <tr>
-  <td align="center">
-    <img src="assets/teaser.png", width=75%>
+<p align="center">
+<img src="assets/teaser.png" width=90% height=90%>
+</p>
 
 ## Abstract
 
@@ -13,14 +10,9 @@ Zero-shot point cloud segmentation aims to make deep models capable of recognizi
 
 ## Pipeline
 
-</figure>
-
-<table>
-  <tr>
-  <td align="center">
-    <img src="assets/pipeline.png">
-  </td>
-  </tr>
+<p align="center">
+<img src="assets/pipeline.png" width=90% height=90%>
+</p>
 
   <tr>
   <td align="center">
